@@ -1,0 +1,8 @@
+{{template "head" .}}
+{{template "prom_content_head" .}}
+
+<h4> Testing console template</h4>
+<b> Server up status: </b> {{ template "prom_query_drilldown" (args "up{job='Linux Server'}") }}
+{{template "prom_content_tail" .}}
+
+{{template "tail"}}
