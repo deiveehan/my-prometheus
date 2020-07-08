@@ -28,8 +28,10 @@ Involves:
 - [Basics](overview/basics/readme.md)
 - [Console Templates](overview/console-templates/readme.md)
 - [Exporters](overview/exporter/readme.md)
-
+- [PromQL](overview/promql/readme.md)
 
 #### Grafana
 - [Grafana Overview](overview/grafana/readme.md)
 
+#### Alerting with Prometheus
+[Alert manager](overview/alert-manager/readme.md)
