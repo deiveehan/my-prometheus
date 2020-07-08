@@ -20,6 +20,7 @@ Involves:
 - Setup alerts whenever there is an issue that is about to happen. 
 
 ### Architecture:
+<img src="overview/Architecture/.readme_images/fde301fd.png"></img>
 [Architecture](overview/Architecture/readme.md)
 
 
