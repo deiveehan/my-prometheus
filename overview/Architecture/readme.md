@@ -1,8 +1,7 @@
 ## Prometheus Architecture
 
 
-![](.readme_images/fde301fd.png)
-
+![](.readme_images/9b760f9f.png)
 
 #### Different ways to monitor applications
 

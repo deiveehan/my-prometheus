@@ -12,7 +12,8 @@ pulls metrics and allows the user to view, query and manage alerts based on the 
 - Setup alerts whenever there is an issue that is about to happen. 
 
 ### Architecture:
-<img src="overview/Architecture/.readme_images/fde301fd.png"></img>
+
+<img src="overview/Architecture/.readme_images/9b760f9f.png"></img>
 [Architecture](overview/Architecture/readme.md)
 
 #### Setting up prometheus
